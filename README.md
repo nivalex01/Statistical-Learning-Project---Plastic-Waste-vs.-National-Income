@@ -1,5 +1,5 @@
 # Statistical-Learning-Project 
-# Plastic Waste vs. National-Income
+# About the project
 This project analyzes the relationship between national income levels and mismanaged plastic waste per capita across over 150 countries. 
 Using non-parametric statistical tests (Shapiro-Wilk, Kruskal-Wallis, and Mann–Whitney U), the study identifies significant differences in plastic waste generation among income groups.
 The analysis is based on real-world data from the World Bank and Our World in Data, with implications for global waste policy and environmental planning.
