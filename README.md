@@ -1,4 +1,6 @@
 # Statistical-Learning-Project 
+![openimg](https://github.com/user-attachments/assets/531b2531-a289-439e-a525-99feba3ffb4a)
+
 # About the project
 This project analyzes the relationship between national income levels and mismanaged plastic waste per capita across over 150 countries. 
 Using non-parametric statistical tests (Shapiro-Wilk, Kruskal-Wallis, and Mann–Whitney U), the study identifies significant differences in plastic waste generation among income groups.
