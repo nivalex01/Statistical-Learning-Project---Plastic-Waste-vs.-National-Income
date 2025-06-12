@@ -1,0 +1,176 @@
+S.No,Country,Literacy Rate,Year
+1,Andorra,1.0,2016.0
+2,Armenia,1.0,2020.0
+3,Australia,1.0,2020.0
+4,Azerbaijan,1.0,2019.0
+5,Barbados,1.0,2014.0
+6,Belarus,1.0,2019.0
+7,Canada,1.0,2020.0
+8,Cuba,1.0,2021.0
+9,Estonia,1.0,2021.0
+10,France,1.0,2020.0
+11,Georgia,1.0,2022.0
+12,Germany,1.0,2020.0
+13,Greenland,1.0,2015.0
+14,Guam,1.0,2000.0
+15,Japan,1.0,2020.0
+16,Kazakhstan,1.0,2020.0
+17,Kyrgyzstan,1.0,2019.0
+18,Latvia,1.0,2021.0
+19,Lithuania,1.0,2021.0
+20,Moldova,1.0,2021.0
+21,Poland,1.0,2021.0
+22,Russia,1.0,2021.0
+23,San Marino,1.0,2018.0
+24,Slovenia,1.0,2001.0
+25,Switzerland,1.0,2020.0
+26,Tajikistan,1.0,2010.0
+27,Ukraine,1.0,2021.0
+28,United Kingdom,1.0,2020.0
+29,United States of America,1.0,2020.0
+30,Uzbekistan,1.0,2022.0
+31,Albania,0.99,2022.0
+32,Antigua and Barbuda,0.99,2001.0
+33,Argentina,0.99,2018.0
+34,Cayman Islands,0.99,2021.0
+35,Croatia,0.99,2021.0
+36,Cyprus,0.99,2021.0
+37,Czech Republic,0.99,2011.0
+38,Fiji,0.99,2018.0
+39,Grenada,0.99,2014.0
+40,Hungary,0.99,2021.0
+41,Italy,0.99,2018.0
+42,Mongolia,0.99,2020.0
+43,Montenegro,0.99,2021.0
+44,Romania,0.99,2021.0
+45,Samoa,0.99,2021.0
+46,Serbia,0.99,2019.0
+47,Spain,0.99,2020.0
+48,Taiwan,0.99,2014.0
+49,Tonga,0.99,2021.0
+50,Turkmenistan,0.99,2005.0
+51,Uruguay,0.99,2019.0
+52,Aruba,0.98,2020.0
+53,Bahrain,0.98,2018.0
+54,Bosnia and Herzegovina,0.98,2022.0
+55,Brunei,0.98,2021.0
+56,Bulgaria,0.98,2021.0
+57,Costa Rica,0.98,2021.0
+58,Greece,0.98,2018.0
+59,Jordan,0.98,2021.0
+60,Maldives,0.98,2021.0
+61,Marshall Islands,0.98,2011.0
+62,North Macedonia,0.98,2012.0
+63,Saudi Arabia,0.98,2020.0
+64,Trinidad and Tobago,0.98,2000.0
+65,United Arab Emirates,0.98,2022.0
+66,Venezuela,0.98,2022.0
+67,American Samoa,0.97,1980.0
+68,Chile,0.97,2022.0
+69,China,0.97,2020.0
+70,New Caledonia,0.97,2006.0
+71,Oman,0.97,2022.0
+72,Palau,0.97,2015.0
+73,Portugal,0.97,2021.0
+74,Saint Vincent and the Grenadines,0.97,1980.0
+75,Singapore,0.97,2020.0
+76,Turkey,0.97,2019.0
+77,Colombia,0.96,2020.0
+78,Indonesia,0.96,2020.0
+79,Kuwait,0.96,2020.0
+80,Panama,0.96,2019.0
+81,Philippines,0.96,2019.0
+82,Seychelles,0.96,2020.0
+83,Vietnam,0.96,2019.0
+84,Dominican Republic,0.95,2021.0
+85,Equatorial Guinea,0.95,2015.0
+86,Lebanon,0.95,2019.0
+87,Malaysia,0.95,2019.0
+88,Malta,0.95,2021.0
+89,Mexico,0.95,2020.0
+90,Paraguay,0.95,2020.0
+91,Suriname,0.95,2021.0
+92,Bolivia,0.94,2020.0
+93,Brazil,0.94,2021.0
+94,Ecuador,0.94,2022.0
+95,Peru,0.94,2020.0
+96,Qatar,0.94,2017.0
+97,Sao Tome and Principe,0.94,2022.0
+98,Thailand,0.94,2021.0
+99,Israel,0.92,1983.0
+100,Mauritius,0.92,2021.0
+101,Namibia,0.92,2021.0
+102,Puerto Rico,0.92,2021.0
+103,Cape Verde,0.91,2022.0
+104,Libya,0.91,2015.0
+105,El Salvador,0.9,2020.0
+106,Guyana,0.9,2022.0
+107,Ivory Coast,0.9,2019.0
+108,South Africa,0.9,2021.0
+109,Zimbabwe,0.9,2022.0
+110,Zimbabwe,0.9,
+111,Botswana,0.89,2015.0
+112,Eswatini,0.89,2020.0
+113,Honduras,0.89,2019.0
+114,Iran,0.89,2021.0
+115,Jamaica,0.89,2015.0
+116,Myanmar,0.89,2019.0
+117,Vanuatu,0.89,2021.0
+118,Laos,0.88,2022.0
+119,Zambia,0.88,2020.0
+120,Gabon,0.86,2022.0
+121,Syria,0.86,2015.0
+122,Cambodia,0.84,2022.0
+123,Guatemala,0.84,2022.0
+124,Tunisia,0.84,2022.0
+125,Kenya,0.83,2022.0
+126,Nicaragua,0.83,2015.0
+127,Lesotho,0.82,2022.0
+128,Tanzania,0.82,2022.0
+129,Algeria,0.81,2018.0
+130,Belize,0.81,2001.0
+131,DR Congo,0.81,2022.0
+132,Republic of the Congo,0.81,2021.0
+133,Uganda,0.81,2022.0
+134,Ghana,0.8,2020.0
+135,Cameroon,0.78,2020.0
+136,Eritrea,0.77,2018.0
+137,Madagascar,0.77,2022.0
+138,Morocco,0.77,2022.0
+139,Solomon Islands,0.77,1999.0
+140,Burundi,0.76,2022.0
+141,Rwanda,0.76,2021.0
+142,Bangladesh,0.75,2020.0
+143,Egypt,0.75,2022.0
+144,India,0.74,2018.0
+145,Angola,0.72,2022.0
+146,Bhutan,0.72,2022.0
+147,Nepal,0.71,2021.0
+148,Timor Leste,0.7,2020.0
+149,Yemen,0.7,2015.0
+150,Malawi,0.68,2022.0
+151,Mauritania,0.67,2021.0
+152,Togo,0.67,2019.0
+153,Papua New Guinea,0.64,2015.0
+154,Mozambique,0.63,2021.0
+155,Comoros,0.62,2022.0
+156,Haiti,0.62,2016.0
+157,Nigeria,0.62,2018.0
+158,Sudan,0.61,2018.0
+159,Gambia,0.59,2022.0
+160,Pakistan,0.58,2019.0
+161,Senegal,0.58,2022.0
+162,Guinea Bissau,0.54,2022.0
+163,Ethiopia,0.52,2017.0
+164,Sierra Leone,0.49,2022.0
+165,Liberia,0.48,2017.0
+166,Benin,0.47,2022.0
+167,Guinea,0.45,2021.0
+168,Somalia,0.41,2022.0
+169,Niger,0.38,2022.0
+170,Afghanistan,0.37,2021.0
+171,Central African Republic,0.37,2020.0
+172,South Sudan,0.35,2018.0
+173,Burkina Faso,0.34,2022.0
+174,Mali,0.31,2020.0
+175,Chad,0.27,2022.0
